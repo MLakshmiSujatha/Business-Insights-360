@@ -1,3 +1,11 @@
+<p align="center">
+<img src="./Banner.png" width="100%">
+</p>
+
+<br>
+
+---
+
 # 📊 Business Insights 360 | End-to-End Power BI Analytics Solution
 
 Business Insights 360 is a comprehensive Business Intelligence solution developed in **Power BI** to help organizations monitor performance across **Finance, Sales, Marketing, Supply Chain, and Executive** functions from a single interactive dashboard.
